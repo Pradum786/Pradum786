@@ -5,3 +5,5 @@
 - 📫 Reach Me: pradumvishwakarma2@gmail.com
 - ⚡Fun Fact: Writing Code For Errors
 
+Languages and Tools:
+android csharp css3 dotnet firebase flutter html5 java javascript kotlin mongodb mssql mysql nodejs react
