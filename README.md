@@ -13,7 +13,17 @@
 
 <img align="left" alt="javascript" width="26px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="kotlin" width="26px" href="https://kotlinlang.org" src="https://camo.githubusercontent.com/76ae44a94388e048be2d8f5730d221c844f291162e6c5cdd632b1623a1b859f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d69636f6e2e737667" style="padding-right:10px;" />
+<img align="left" alt="kotlin" width="26px" href="<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="a" x1="500.003" x2="-.097" y1="579.106" y2="1079.206" gradientTransform="translate(15.534 -96.774) scale(.1939)" gradientUnits="userSpaceOnUse">
+      <stop offset=".003" stop-color="#e44857"/>
+      <stop offset=".469" stop-color="#c711e1"/>
+      <stop offset="1" stop-color="#7f52ff"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#a)" d="M112.484 112.484H15.516V15.516h96.968L64 64Zm0 0"/>
+</svg>
+" style="padding-right:10px;" />
 
 <img align="left" alt="nodejs" width="26px" href="https://nodejs.org" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;" />
 
