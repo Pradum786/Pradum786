@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pradum Vishwakarma
+- 👋 Hi, I’m Pradhumna Vishwakarma
 - 👀 I’m Interested Working On Android Development.
 - 🌱 I’m Currently Learning Advance Android Development.
 - 💞️ I’m Looking To Make More Friends.
@@ -13,19 +13,7 @@
 
 <img align="left" alt="javascript" width="26px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
-<p align="left">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="40">
-  <defs>
-    <linearGradient id="a" x1="500.003" x2="-.097" y1="579.106" y2="1079.206" gradientTransform="translate(15.534 -96.774) scale(.1939)">
-      <stop offset=".003" stop-color="#e44857"/>
-      <stop offset=".469" stop-color="#c711e1"/>
-      <stop offset="1" stop-color="#7f52ff"/>
-    </linearGradient>
-  </defs>
-  <path fill="url(#a)" d="M112.484 112.484H15.516V15.516h96.968L64 64Z"/>
-</svg>
-</p>
-
+<img align="left" alt="Kotlin" width="26px" href="https://nodejs.org" src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" style="padding-right:10px;" />
 
 <img align="left" alt="nodejs" width="26px" href="https://nodejs.org" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;" />
 
