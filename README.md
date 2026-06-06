@@ -11,11 +11,11 @@
 
 <img align="left" alt="java" width="26px" href="https://www.java.com" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="javascript" width="26px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<!-- <img align="left" alt="javascript" width="26px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> -->
 
 <img align="left" alt="Kotlin" width="26px" href="https://nodejs.org" src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" style="padding-right:10px;" />
 
-<img align="left" alt="nodejs" width="26px" href="https://nodejs.org" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;" />
+<!-- <img align="left" alt="nodejs" width="26px" href="https://nodejs.org" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:10px;" /> -->
 
 <br />
 <br />
